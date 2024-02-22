@@ -10,7 +10,7 @@ body {
     background-color: gray;
     background-image: url(assets/horizontal-background.png);
     background-repeat: no-repeat;
-    overflow: hidden;
+    /* overflow: hidden; */
     background-size: cover;
 }
 /* the main container */
